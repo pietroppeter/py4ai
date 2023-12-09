@@ -8,7 +8,8 @@ git submodule update --init --recursive
 
 then you can serve with `hugo serve -v` (v for verbose if you want)
 
-below original readme
+below original readme from: https://github.com/PyDataAmsterdam/amsterdam.pydata.org
+
 ---
 ## Amsterdam.pydata.org
 

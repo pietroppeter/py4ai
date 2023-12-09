@@ -40,8 +40,10 @@
                     </div>
                     -->
                     <div class="col-sm-8">
-                        {{ $image := resources.Get "images/argologo240.png" }}
+                        {{ $image := resources.Get "images/argologoW.png" }}
                         <h4>Sponsored by&nbsp;&nbsp; <img src="{{ ($image.Resize "120x webp").RelPermalink }}" alt="Dexter" width="30%"> </h4>
+                        {{ $image := resources.Get "images/seavision-logo.png" }}
+                        <h4><img src="{{ ($image.Resize "120x webp").RelPermalink }}" alt="Dexter" width="30%"> </h4>
                     </div>
                 </div>
 

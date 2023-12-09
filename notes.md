@@ -1,5 +1,5 @@
 today today:
-- [ ] repo cleanup
+- [x] repo cleanup
 - [ ] some of the changes below and for the rest open issues
 - [ ] update notion and update people on slack
 
@@ -14,7 +14,7 @@ home:
 - [ ] banner
   - [ ] photo!
   - [ ] sponsor logo
-- [x] home announcement (replace it's a wrap)
+- [ ] home announcement (replace it's a wrap)
   - name: "A new conference"
   - added back description.html for reference
 - [ ] news and updates
