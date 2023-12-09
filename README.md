@@ -6,7 +6,7 @@ after git clone you need also to clone submodules
 git submodule update --init --recursive
 ```
 
-then you can serve with `hugo serve -v` (v for verbose of you want)
+then you can serve with `hugo serve -v` (v for verbose if you want)
 
 below original readme
 ---
