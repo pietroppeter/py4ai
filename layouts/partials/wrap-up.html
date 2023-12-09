@@ -1,0 +1,33 @@
+
+<section class="bar background-white">
+    <div class="container">
+        <div class="heading text-center"><h2>A new conference for Python and AI lovers!</h2></div>
+
+
+        <div class="row vertical-align">
+            <div class="col-lg-7">
+                <p class="lead">
+                    todo paragraph 
+                </p>
+                <p class="lead">
+                    todo paragraph 
+                </p>
+            </div>
+            <div class="col-lg-5 hidden-xs hidden-sm">
+                {{ $image := resources.Get "images/goodbye-for-now.jpeg" }}
+                <img src="{{ ($image.Resize "600x webp").RelPermalink }}" alt="" width="400">
+            </div>
+        </div>
+        <div class="row vertical-align">
+            <div class="col-lg-5 hidden-xs hidden-sm">
+                {{ $image := resources.Get "images/overview.jpeg" }}
+                <img src="{{ ($image.Resize "600x webp").RelPermalink }}" alt="" width="400">
+            </div>
+            <div class="col-lg-7">
+                <p class="lead vcenter">
+                    👈 ai generated images about python and ai? 👆
+                </p>
+            </div>
+        </div>
+    </div>
+</section>
