@@ -53,3 +53,7 @@ improvement for the pydata theme, see issue #12
 ## banner photos
 
 - using cwebp tool (`brew install webp` or https://developers.google.com/speed/webp/docs/using) to convert images to webp
+
+## on class lead for paragraphs
+
+- I noticed that newlines are reported as in source when using this class, we should pay attention to this when using it.
