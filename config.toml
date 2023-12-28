@@ -127,7 +127,7 @@ pluralizelisttitles = false
     logo_small = "img/pydata-logo-final.png"
     contact_url = "/contact"
     address = """<p class="text-uppercase">
-        info@py4ai.com
+        TBD
       </p>
       """
 
