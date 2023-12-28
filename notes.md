@@ -48,12 +48,8 @@ about:
 faq:
 - update
 
-improvement for the pydata theme:
-- make it a theme (overall goal)
-- galleries
-- hugo new
-  - blog
-  - sponsor
-  - featured speaker (export from pretalx)
-  - ...
-- plausible analytics (and have a pydata plausible)
+improvement for the pydata theme, see issue #12
+
+## banner photos
+
+- using cwebp tool (`brew install webp` or https://developers.google.com/speed/webp/docs/using) to convert images to webp
