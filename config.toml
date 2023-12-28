@@ -74,10 +74,10 @@ pluralizelisttitles = false
 
     # Google Maps widget: If `googleMapsApiKey` is not set, no key will be passed to Google (which likely results in a broken map widget).
     enableGoogleMaps = true
-    googleMapsApiKey = "AIzaSyBfoMk9K71wqW9q99mxBgoCxTOcJEva-bk"
+    googleMapsApiKey = "AIzaSyDMIZbaXyFdrgVN0CtRZoIJWT8NIwzs2VQ"
 
-    latitude = "52.38305548854187"
-    longitude = "4.920619744177676"
+    latitude = "45.200477990832646"
+    longitude = "9.172454491369349"
 
     # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
     style = "default"
