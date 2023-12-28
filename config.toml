@@ -41,11 +41,11 @@ pluralizelisttitles = false
     url        = "/blog/"
     weight     = 6
 
-[[menu.main]]
-    name       = "Program"
-    identifier = "menu.program"
-    url        = "/program/"
-    weight     = 6
+# [[menu.main]]
+#     name       = "Program"
+#     identifier = "menu.program"
+#     url        = "/program/"
+#     weight     = 6
 
 [[menu.main]]
     name       = "FAQ"
