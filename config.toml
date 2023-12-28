@@ -71,8 +71,8 @@ pluralizelisttitles = false
     enableGoogleMaps = true
     googleMapsApiKey = "AIzaSyDMIZbaXyFdrgVN0CtRZoIJWT8NIwzs2VQ"
 
-    latitude = "45.200477990832646"
-    longitude = "9.172454491369349"
+    latitude = "45.2003190414883"
+    longitude = "9.172370294232802"
 
     # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
     style = "default"
