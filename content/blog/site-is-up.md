@@ -17,4 +17,4 @@ If you want to check out the site source it is available at https://github.com/p
 
 The template for this site has been adapted
 from [PyData Amsterdam](https://amsterdam.pydata.org/).
-We want to thank Matthis Brouns for support in setting this up.
+We want to thank Matthijs Brouns for support in setting this up.
