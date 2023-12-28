@@ -41,11 +41,11 @@ pluralizelisttitles = false
     url        = "/blog/"
     weight     = 6
 
-[[menu.main]]
-    name       = "Program"
-    identifier = "menu.program"
-    url        = "/program/"
-    weight     = 6
+# [[menu.main]]
+#     name       = "Program"
+#     identifier = "menu.program"
+#     url        = "/program/"
+#     weight     = 6
 
 [[menu.main]]
     name       = "FAQ"
@@ -71,8 +71,8 @@ pluralizelisttitles = false
     enableGoogleMaps = true
     googleMapsApiKey = "AIzaSyDMIZbaXyFdrgVN0CtRZoIJWT8NIwzs2VQ"
 
-    latitude = "45.200477990832646"
-    longitude = "9.172454491369349"
+    latitude = "45.2003190414883"
+    longitude = "9.172370294232802"
 
     # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
     style = "default"
@@ -127,7 +127,7 @@ pluralizelisttitles = false
     logo_small = "img/pydata-logo-final.png"
     contact_url = "/contact"
     address = """<p class="text-uppercase">
-        info@py4ai.com
+        TBD
       </p>
       """
 
@@ -154,7 +154,7 @@ pluralizelisttitles = false
     # All carousel items are defined in their own files. You can find example items
     # at 'exampleSite/data/carousel'.
     # For more information take a look at the README.
-    enable = true
+    enable = false
     auto_play = true
     slide_speed = 2000
     pagination_speed = 1000
