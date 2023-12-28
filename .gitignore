@@ -3,3 +3,4 @@ resources/gen_/
 .idea/
 
 **/.DS_Store
+resources/_gen
