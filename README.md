@@ -4,6 +4,8 @@ This repository is the source for a new conference on Python and AI to be held i
 
 ## Developing
 
+Make sure to install `hugo` in the extended version.
+
 after git clone you need also to clone submodules
 
 ```
