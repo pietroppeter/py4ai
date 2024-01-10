@@ -7,7 +7,7 @@ url = "we-are-up/"
 
 We are very happy to announce that Py4AI Website is finally publicly available!
 You are now able to consult the basic information about the conference.
-Save the date, the conference will Saturday, March 16th!
+Save the date, the conference will be on Saturday, March 16th!
 
 Tickets are already available to book your place at the conference.
 The conference ticket is free but please make sure to be able to commit to be present
