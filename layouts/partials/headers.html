@@ -96,3 +96,6 @@
 {{ end }}
 <meta name="twitter:description" content="{{ $description_plain | truncate 200 }}">
 {{ with .Param "twitter_author" }}<meta name="twitter:creator" content="@{{ . }}">{{ end }}
+
+<!-- Plausible Analytics -->
+<script defer data-domain="py4ai.com" src="https://plausible.io/js/script.js"></script>
