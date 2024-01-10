@@ -1,6 +1,6 @@
 +++
 title = "Py4Ai Site is up!"
-date = "2024-01-10T12:00:00+01:00"
+date = "2024-01-10T9:00:00+01:00"
 draft = false
 url = "we-are-up/"
 +++
