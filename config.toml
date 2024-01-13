@@ -184,6 +184,15 @@ pluralizelisttitles = false
     title = "Our Sponsors"
     subtitle = ""
 
+
+[params.speakers]
+    enable = true
+    # All speakers are defined in their own files. You can find example items
+    # at 'exampleSite/data/speakers'.
+    # For more information take a look at the README.
+    title = "Our speakers"
+    subtitle = ""
+
 [params.recent_posts]
     enable = true
     title = "News & Updates"

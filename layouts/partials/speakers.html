@@ -1,0 +1,44 @@
+{{ if isset .Site.Params "speakers" }}
+{{ if .Site.Params.speakers.enable }}
+{{ if isset .Site.Data "speakers" }}
+{{ if gt (len .Site.Data.speakers) 0 }}
+<section class="bar background-white no-mb">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="heading text-center">
+                    <h2>{{ .Site.Params.speakers.title | markdownify }}</h2>
+                </div>
+
+                <p class="lead">
+                    {{ .Site.Params.speakers.subtitle | markdownify }}
+                </p>
+
+                <div>
+                    <div class="grid-container">
+                        {{ range $_, $speaker := $.Site.Data.speakers }}
+                        <div class="col" title="{{ .name }}">
+                            <figure class="grid-item Diamond">
+                                {{ $image := resources.Get .image }}
+                                <img src="{{ ($image.Resize " 400x").RelPermalink }}" alt="{{ .name }}"
+                                    class="img-responsive">
+                                <p><strong>{{ .name }}</strong> <br>{{ .tagline }} </p>
+                            </figure>
+
+                        </div>
+                        {{ end }}
+                        </ul>
+                    </div>
+
+                </div>
+
+
+                <!-- /.owl-carousel -->
+            </div>
+        </div>
+    </div>
+</section>
+{{ end }}
+{{ end }}
+{{ end }}
+{{ end }}
