@@ -16,22 +16,24 @@
 
                 <div>
 
-                        {{ $sponsorLevels := slice "Diamond" "Platinum" "Gold" "Silver"}}
-                        {{ $sponsorLevelSizes := dict "Diamond" "400x webp" "Platinum" "360x webp" "Gold" "280x webp" "Silver" "200x webp"}}
+                        {{ $sponsorLevels := slice "Organizers" "Communities"}}
+                        {{ $sponsorLevelSizes := dict "Organizers" "200x webp" "Communities" "200x webp"}}
                         {{ range $_, $sponsorLevel := $sponsorLevels }}
 
                         <div class="heading text-center">
-                            <h3>{{$sponsorLevel}} Sponsors</h3>
+                            <h3>{{$sponsorLevel}}</h3>
                         </div>
                         <div class="grid-container">
                             {{ range $_, $sponsor := $.Site.Data.sponsors }}
                             {{ if (eq $sponsor.level $sponsorLevel) }}
                             <div class="col" title="{{ .name }}">
                                 <figure class="grid-item {{$sponsorLevel}}">
-                                <a href="{{ .url }}" target="_blank">
                                     {{ $image := resources.Get .image }}
                                     <img src="{{ ($image.Resize (index $sponsorLevelSizes $sponsorLevel) ).RelPermalink }}" alt="{{ .name }}" class="img-responsive"/>
-                                </a>
+                                    <figcaption>
+                                        <h3>{{ .name }}</h3>
+                                        <p>{{ .description }}</p>
+                                    </figcaption>
                                 </figure>
                             </div>
                             {{ end }}

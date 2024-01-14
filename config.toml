@@ -181,8 +181,8 @@ pluralizelisttitles = false
     # All sponsors are defined in their own files. You can find example items
     # at 'exampleSite/data/sponsors'.
     # For more information take a look at the README.
-    title = "Our Sponsors"
-    subtitle = ""
+    title = "Thanks to"
+    subtitle = "Py4AI is possible thanks to the passion of dev communities and a network of partners. The event is organized by a committee of volounteers from Python Milano and ARGO Vision. We are supported by local Python and AI communities that contribute by scouting amazing speakers for the event."
 
 [params.recent_posts]
     enable = true
