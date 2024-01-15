@@ -30,7 +30,7 @@
 }
 
 .home-carousel {
-    background: url('../img/banner.webp') center center;
+    background: url('../img/banner1.webp') center center;
     background-size: cover;
     /*filter: saturate(0.6);*/
     position: relative;
