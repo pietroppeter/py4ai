@@ -13,7 +13,7 @@ exciting news! The Py4AI conference is just around the corner, and we couldn't b
 
 We've unblocked the former waiting list for Py4AI conference tickets, granting those on the list (75 people) the tickets for this exceptional event! From now on, a **new unlimited** waiting list is open with the random assignation of tickets.  Details:
 
-- until the 14th of February a brand new waiting list will be online for free registration;
+- until the 14th of February a brand [new waiting list](https://ti.to/pydata/py4ai/with/py4ai-late-ticket-random-assignment) will be online for free registration;
 - the 16th of February we will shuffle the waiting list and we will assign the remaining tickets (25) to the luckiest of you.
 
 ## New speakers
