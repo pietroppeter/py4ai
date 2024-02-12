@@ -29,40 +29,12 @@
     min-height: 230px;
 }
 
-.banner-container {
-    width: 100%;
-    height: auto;
-}
-
-.desktop-banner {
-    display: block;
-    width: 100%;
-    height: auto;
-}
-
-.mobile-banner {
-    display: none;
-    width: 100%;
-    height: auto;
-}
-
-@media only screen and (max-width: 600px) {
-    /* Tablets and smaller screens */
-    .desktop-banner {
-        display: none;
-    }
-
-    .mobile-banner {
-        display: block;
-    }
-}
-
 .home-carousel {
-    /*background: url('../img/BannerPY4AI.png') center center;*/
+    background: url('../img/banner1.webp') center center;
     background-size: cover;
     /*filter: saturate(0.6);*/
     position: relative;
-    /*height: 60em;*/
+    height: 60em;
 }
 
 .home-carousel .container {
@@ -70,7 +42,7 @@
 }
 .home-carousel .dark-mask {
     background: #1d242a;
-    /*opacity: 0.3;*/
+    opacity: 0.3;
 }
 
 div #map {
