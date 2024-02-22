@@ -27,3 +27,7 @@ short video interviews of our wonderful speakers. To be notified first subscribe
 ARGO Vision [YouTube channel](https://www.youtube.com/@argo.vision) or [Linkedin page](https://www.linkedin.com/company/argo-vision/).
 
 See you at #Py4AI!
+
+**Note:**: We previously announced on our homepage that we wanted to provide a free shuttle
+to the venue from Milan. Unfortunately we were not able to secure that option
+and we apologize if you were counting on it.
