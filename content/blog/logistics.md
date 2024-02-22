@@ -5,8 +5,6 @@ draft = false
 url = "logistics/"
 +++
 
-## How to arrive at Py4AI
-
 The conference is less than 4 weeks away and we are really excited about it!
 If you have your ticket you might already be making plans on how to reach the venue.
 Here are some information that you might find useful.
@@ -22,7 +20,7 @@ Another option is to take a taxi from Pavia Station to SEA Vision (Via Treves 9E
 Ensure to check for any updates or changes to transportation routes before starting your journey.
 
 - 🚌 If you want to car share with other conference participants you can join
-the newly created #py4ai channel in Python Milano Slack. Here is a [link](https://bit.ly/pymislack) to join Slack (you can find the same link at our easy-to-remember homepage [milano.python.it](milano.python.it)).
+the newly created `#py4ai` channel in Python Milano Slack. Here is a [link](https://bit.ly/pymislack) to join Slack (you can find the same link at our easy-to-remember homepage [milano.python.it](milano.python.it)).
 
 As an additional update, you might have noticed that we have started publishing
 short video interviews of our wonderful speakers. To be notified first subscribe to
