@@ -22,7 +22,13 @@
                                 {{ $image := resources.Get .image }}
                                 <img src="{{ ($image.Resize " 400x").RelPermalink }}" alt="{{ .name }}"
                                     class="img-responsive">
-                                <p><strong>{{ .name }}</strong> <br>{{ .tagline }} </p>
+                                <p><strong>{{ .name }}</strong> <br>{{ .tagline }}
+                                    {{ if .interview }}
+                                    <br>
+                                    <a href="{{ .interview }}">📺 Interview</a>
+                                    {{ end }}
+                                    
+                                </p>
                             </figure>
 
                         </div>
@@ -30,11 +36,6 @@
                         </ul>
                     </div>
 
-                </div>
-                <div class="row vertical-align">
-                        <p class="lead">
-                            Hold on, more speakers will be announced soon! ⏳
-                        </p>
                 </div>
             </div>
         </div>
