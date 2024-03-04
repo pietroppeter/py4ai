@@ -13,7 +13,7 @@ To reach SEA Vision:
 
 - 🚘 If you're traveling by car: use a GPS navigation system or a mapping app to enter the address: [Via Treves 9E, 27100 Pavia](https://maps.app.goo.gl/Fdsrxd9fkM28oKtx7).
 Follow the suggested route provided by the navigation system to reach the destination.
-Parking spots are available in and around the venue.
+Parking spots are available around the venue (parking inside the venue will be reserved for speakers and organization).
 
 - 🚆 If you're using public transportation: use a transportation app or website to find routes to Pavia Station. Once you arrive in Pavia, you can take Bus no.7 (bus stop in front of the station), travel 12 stops without change, and you will arrive right in front of the venue (SEA Vision, Via Treves 9E).
 Another option is to take a taxi from Pavia Station to SEA Vision (Via Treves 9E).
