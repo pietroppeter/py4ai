@@ -32,6 +32,7 @@ The committee members include:
 - Luca Baggi - [LinkedIn](https://www.linkedin.com/in/lucabaggi/)
 - Marco Santoni - [LinkedIn](https://www.linkedin.com/in/msantoni/)
 - Pietro Peterlongo - [LinkedIn](https://www.linkedin.com/in/pietro-peterlongo-b7605627/)
+- Thao Hoang - [LinkedIn](https://www.linkedin.com/in/hpthao22/)
 
 # Code of Conduct
 

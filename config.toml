@@ -33,19 +33,19 @@ pluralizelisttitles = false
     name       = "About"
     identifier = "menu.about"
     url        = "/about/"
-    weight     = 5
+    weight     = 6
 
 [[menu.main]]
     name       = "News & Updates"
     identifier = "menu.blog"
     url        = "/blog/"
-    weight     = 6
+    weight     = 2
 
-# [[menu.main]]
-#     name       = "Program"
-#     identifier = "menu.program"
-#     url        = "/program/"
-#     weight     = 6
+[[menu.main]]
+    name       = "Program"
+    identifier = "menu.program"
+    url        = "/program/"
+    weight     = 3
 
 [[menu.main]]
     name       = "FAQ"
