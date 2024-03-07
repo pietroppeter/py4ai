@@ -24,7 +24,8 @@ can be used to share about your activities or to explain a simple concept or
 they are often used for humourous or creative takes on the topic of the conference.
 How do I apply for Lightning Talks? Well, it could not be easier:
 just come at the conference prepared to give a 5 minute talk,
-and you will find a place where you can add your lightning talk!
+and you will receive instructions at the beginning of the conference
+on where to add it to the schedule (no reviews or approval needed)!
 
 If you are looking for some inspiration you can find lightning talks on YouTube
 for various Python and PyData conferences, just to make it easier for you here are
